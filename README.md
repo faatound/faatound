@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there 👋 it's faatou
 
-<!--
-**faatound/faatound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i am a junior developper who is in second year in the higher polytechnical school .
+I have always been interested about computers and programming . In everyday life i love coding and discover new things.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning JavaScript
+- 👯 I’m looking to collaborate on JavaScript
+- 🤔 I’m looking for help with Java
+- 💬 Ask me about PHP
+- 📫 How to reach me: aafaatound@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+  
+🛠 Skills
+
+Javascript, HTML, CSS , PHP, Java
+
+Tech Stack 
+
+Client: NextJs, Bootstrap, TailwindCSS
+
+Server: PHP, JavaScript, My SQL
+
+🔗 Links
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatou-fall-ndiaye-114246299/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bint_annette)
