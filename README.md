@@ -14,7 +14,7 @@ I have always been interested about computers and programming . In everyday life
   
 🛠 Skills
 
-Javascript, HTML, CSS , PHP, Java
+Javascript, HTML, CSS , PHP, Java , REACT, NextJS
 
 Tech Stack 
 
