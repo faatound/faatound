@@ -7,14 +7,14 @@ I have always been interested about computers and programming . In everyday life
 - 👯 I’m looking to collaborate on JavaScript
 - 🤔 I’m looking for help with Java
 - 💬 Ask me about PHP
-- 📫 How to reach me: aafaatound@gmail.com
+- 📫 How to reach me: faaatound@gmail.com
 
 -->
 
   
 🛠 Skills
 
-Javascript, HTML, CSS , PHP, Java , REACT, NextJS
+Javascript, HTML, CSS , PHP, Java , REACT, NextJS , AngularJS
 
 Tech Stack 
 
