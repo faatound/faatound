@@ -3,7 +3,7 @@
 i am a junior developper who is in second year in the higher polytechnical school .
 I have always been interested about computers and programming . In everyday life i love coding and discover new things.
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Angular and NextJS
 - 👯 I’m looking to collaborate on JavaScript
 - 🤔 I’m looking for help with Java
 - 💬 Ask me about PHP
