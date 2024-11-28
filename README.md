@@ -1,6 +1,6 @@
 ### Hi there 👋 it's faatou
 
-i am a junior developper who is in second year in the higher polytechnical school .
+i am a junior developper who is in Third year in the higher polytechnical school .
 I have always been interested about computers and programming . In everyday life i love coding and discover new things.
 
 - 🌱 I’m currently learning Angular and NextJS
