@@ -1,6 +1,6 @@
 ### Hi there 👋 it's faatou
 
-i am a junior developper who is in Third year in the higher polytechnical school .
+Passionate Front-end Developper from Dakar polytechnical school .
 I have always been interested about computers and programming . In everyday life i love coding and discover new things.
 
 - 🌱 I’m currently learning Angular and NextJS
@@ -11,7 +11,7 @@ I have always been interested about computers and programming . In everyday life
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/php/php.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png"></code>    
+<code><img height="20" alt="nextjs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png"></code>    
 
 - 📫 How to reach me: faaatound@gmail.com
 -->
@@ -35,11 +35,9 @@ Server: PHP, JavaScript, My SQL
 
 
 <a href="https://github.com/faatound/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faatound&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ton_username&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/faatound/faatound.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faatound&repo=faatound.github.io&theme=buefy" />
-</a>
+
 
 
 
