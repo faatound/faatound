@@ -35,7 +35,7 @@ Server: PHP, JavaScript, My SQL
 
 
 <a href="https://github.com/faatound/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=faatound&show_icons=true&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=faatound&show_icons=true&theme=buefy" /> |  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faatound&layout=compact&theme=buefy&exclude_repo=repo_test,autre_repo" /> 
 </a>
 
 
